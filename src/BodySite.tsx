@@ -8,7 +8,7 @@ function BodySite() {
 
 
   return (
-    <div className="flex font-inter items-start justify-start ml-28">
+    <div className="flex font-inter items-start justify-start md:ml-28 ml-5">
       <div className="flex flex-col mt-44">
         <span className="font-bold text-6xl">Aqui você tem </span>
         <span className="font-bold text-6xl">pessoas orando</span>
@@ -20,7 +20,7 @@ function BodySite() {
         </button>
 
       </div>
-      <img src={body} className="ml-auto" />
+      <img src={body} className="ml-auto mx-2 md:block hidden" />
     </div>
   );
 }
