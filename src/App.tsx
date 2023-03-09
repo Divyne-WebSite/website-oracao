@@ -1,6 +1,8 @@
 import { useState } from 'react'
 import Logo from './assets/logo.svg'
 import './App.css'
+import { IonIcon } from '@ionic/react';
+import { menu } from 'ionicons/icons';
 import Body from './BodySite';
 
 function App() {
@@ -28,7 +30,7 @@ function App() {
             </span>
           </div>
           <span className="text-3x1 cursor-pointer mx-2 md:hidden block" onClick={toggleMenu}>
-            <ion-icon name="menu" size="large"></ion-icon>
+            <IonIcon icon={menu} size="large" />
           </span>
         </div>
         <ul
