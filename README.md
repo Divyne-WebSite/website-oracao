@@ -9,19 +9,19 @@
 <h1 align="center">Pedido de Oração</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{Divyne-WebSite}}/website-oracao?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Divyne-WebSite/website-oracao?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{Divyne-WebSite}}/website-oracao?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Divyne-WebSite/website-oracao?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{Divyne-WebSite}}/website-oracao?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Divyne-WebSite/website-oracao?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{Divyne-WebSite}}/website-oracao?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/Divyne-WebSite/website-oracao?color=56BEB8">
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/{{Divyne-WebSite}}/website-oracao?color=56BEB8" /> -->
+  <img alt="Github issues" src="https://img.shields.io/github/issues/Divyne-WebSite/website-oracao?color=56BEB8" /> -->
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/{{Divyne-WebSite}}/website-oracao?color=56BEB8" />
+  <img alt="Github forks" src="https://img.shields.io/github/forks/Divyne-WebSite/website-oracao?color=56BEB8" />
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/{{Divyne-WebSite}}/website-oracao?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/Divyne-WebSite/website-oracao?color=56BEB8" />
 
 </p>
 
@@ -72,7 +72,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{Divyne-WebSite}}/website-oracao
+$ git clone https://github.com/Divyne-WebSite/website-oracao
 
 # Access
 $ cd website-oracao
@@ -91,7 +91,7 @@ $ yarn dev OR npm run dev
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{Divyne-WebSite}}" target="_blank">7x Support Prayer</a>
+Made with :heart: by <a href="https://github.com/Divyne-WebSite" target="_blank">7x Support Prayer</a>
 
 &#xa0;
 
