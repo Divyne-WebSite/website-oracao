@@ -1,8 +1,6 @@
-import { useState } from 'react'
-import body from './assets/body.png'
+import body from '../../assets/body.png'
+
 import './Body.css'
-import { IonIcon } from '@ionic/react';
-import { menu } from 'ionicons/icons';
 
 function BodySite() {
 
