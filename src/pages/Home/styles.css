@@ -20,5 +20,11 @@
 
   .buttonClass:hover {
     transition: 0.5s ease;
-    background-color: #7f8af1;
+    background-color: #3a48c2;
+  }
+
+  @media(max-width: 767px) {
+    #container {
+      width: 80%;
+    }
   }

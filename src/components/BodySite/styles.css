@@ -1,1 +1,12 @@
+@media (max-width: 767px) {
+  #image {
+    display: none;
+  }
 
+  #container {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+  }
+
+}
