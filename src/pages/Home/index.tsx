@@ -2,7 +2,8 @@ import { useState } from 'react'
 import { IonIcon } from '@ionic/react';
 import { menu } from 'ionicons/icons';
 
-import Body from '../../components/BodySite/BodySite';
+
+import Body from '../../components/BodySite/index';
 import Logo from '../../assets/logo.svg'
 
 import './styles.css'
@@ -12,6 +13,10 @@ export default function Home() {
 
   function toggleMenu() {
     setShowMenu(!showMenu);
+  }
+
+  function handleClick() {
+    console.log('Você clicou no botão com sucesso!!!')
   }
 
 return (
@@ -53,9 +58,10 @@ return (
               Ajuda
             </a>
           </li>
+        <button className='buttonClass' type='button' onClick={handleClick}>Peça</button>
         </ul>
       </nav>
       <Body />
     </div>
-)
+  )
 }

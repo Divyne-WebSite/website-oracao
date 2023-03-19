@@ -1,6 +1,6 @@
 import body from '../../assets/body.png'
 
-import './Body.css'
+import './styles.css'
 
 function BodySite() {
 
