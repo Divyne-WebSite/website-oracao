@@ -2,12 +2,20 @@
     font-family: 'inter', sans-serif;
   }
 
+#container {
+  min-width: 350px;
+}
+
+.secoundText {
+  font-size: 24px;
+  padding-bottom: 40px;
+}
+
   .buttonClass {
     background-color: #5061fc;
     color: white;
     padding: 8px 20px;
     border-radius: 10px;
-
   }
 
   .buttonClass:hover {
