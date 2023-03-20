@@ -1,8 +1,13 @@
-import Home from './pages/Home';
+import Body from './BodySite';
+import './App.css';
+import { Nav } from './components/Nav';
 
 function App() {
   return (
-    <Home />
+    <div>
+      <Nav />
+      <Body />
+    </div>
   );
 }
 
