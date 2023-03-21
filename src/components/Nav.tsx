@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { IonIcon } from '@ionic/react';
 import { menu } from 'ionicons/icons';
+
 import Logo from '../assets/logo.svg';
 
 export function Nav() {
@@ -39,6 +40,7 @@ export function Nav() {
             </a>
           </li>
         </ul>
+          <button className="bg-indigo-600 text-white px-10 py-2 rounded-lg ml-12">Peça</button>
       </div>
       <span
         className="pr-5 z-10 cursor-pointer md:hidden max-md:mt-14 block"
