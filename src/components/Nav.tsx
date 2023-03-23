@@ -23,7 +23,7 @@ export function Nav() {
           mobileMenuOpen ? 'top-0 bg-white' : '-top-full'
         }`}
       >
-        <ul className="flex gap-12 max-md:gap-7 max-md:flex-col max-md:text-center text-xl">
+        <ul className="flex gap-12 max-md:gap-7 max-md:flex-col max-md:text-center text-xl font-inter font-semibold">
           <li>
             <a href="#" className="hover:text-indigo-900 duration-500">
               Início
